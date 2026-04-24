@@ -28,7 +28,7 @@ This repository contains the source code for **Ecommerce-app**.
 
 - ⭐ Stars: 0
 - 🍴 Forks: 0
-- 📄 License: Not specified
+- 📄 License: MIT
 - 🌿 Default Branch: `master`
 
 ---
@@ -45,6 +45,8 @@ This repository contains the source code for **Ecommerce-app**.
 Ecommerce-app/
 ├── 📄 .gitignore
 ├── 📁 .idea
+├── 📄 LICENSE
+├── 📄 README.md
 ├── 📁 app
 ├── 📄 build.gradle
 ├── 📄 gradle.properties
@@ -103,7 +105,7 @@ Contributions are always welcome!
 
 ## 📄 License
 
-This project is licensed under the **Not specified** license.
+This project is licensed under the **MIT** license.
 See the [LICENSE](LICENSE) file for full details.
 
 ---
